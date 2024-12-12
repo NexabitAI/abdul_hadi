@@ -28,9 +28,9 @@ const Hero = () => {
         <p className="sm:text-3xl text-xl font-medium text-white text-center font-generalsans">
           Hi, I am Abdul Hadi <span className="waving-hand">👋</span>
         </p>
-        <p className="sm:text-xs text-sm font-medium text-white text-center font-generalsans">
+        {/* <p className="sm:text-xs text-sm font-medium text-white text-center font-generalsans">
           This is portfolio project by the Hamza Bilal.
-        </p>
+        </p> */}
         <p className="hero_tag text-gray_gradient">Building Brands&apos; Online Presence</p>
       </div>
 
